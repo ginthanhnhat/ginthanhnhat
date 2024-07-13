@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi 👋, I'm Thanh Nhật</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A passionate developer from Vietnam</h3>
 </p>
 
 - ✍ I'm a student of: [VNU-HCM International University](https://hcmiu.edu.vn) (HCMIU).
