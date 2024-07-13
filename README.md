@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/thanh-nh%E1%BA%ADt-tr%E1%BA%A7n-010167266/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/ginnit.08/" alt="Facebook">
+  <a href="https://www.facebook.com/ginthanhnhat/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/gintrandev" alt="Github">
