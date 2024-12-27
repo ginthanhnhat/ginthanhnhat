@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintrandev&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="gintrandev" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=gintrandev&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="gintrandev" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginthanhnhat&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="ginthanhnhat" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ginthanhnhat&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="ginthanhnhat" width="100%"/>
     </td>
     <td>
       <p align="center"> 
