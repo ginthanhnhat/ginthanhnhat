@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thanh-nh%E1%BA%ADt-tr%E1%BA%A7n-010167266/" target="_blank">
+  <a href="[https://www.linkedin.com/in/thanh-nh%E1%BA%ADt-tr%E1%BA%A7n-010167266/](https://www.linkedin.com/in/gin-thanh-nhat-dev/)" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/ginthanhnhat/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/gintrandev" alt="Github">
+  <a href="https://github.com/ginthanhnhat" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:gin.ttn09@gmail.com" alt="Email">
+  <a href="mailto:ginthanhnhat@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
