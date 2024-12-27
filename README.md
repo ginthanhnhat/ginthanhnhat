@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/thanh-nh%E1%BA%ADt-tr%E1%BA%A7n-010167266/](https://www.linkedin.com/in/gin-thanh-nhat-dev/)" target="_blank">
+  <a href="https://www.linkedin.com/in/gin-thanh-nhat-dev/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/ginthanhnhat/" alt="Facebook">
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ## GITHUB PROFILE TROPHY 🏆
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=gintrandev&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+  <img src="https://github-profile-trophy.vercel.app/?username=ginthanhnhat&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
 
 ## Certificates:
